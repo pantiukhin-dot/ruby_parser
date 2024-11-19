@@ -52,3 +52,43 @@ I, [2024-11-19T10:39:24.931496 #11512]  INFO -- : Items saved to text file: outp
 I, [2024-11-19T10:39:24.932424 #11512]  INFO -- : Items saved to JSON file: output/items.json
 I, [2024-11-19T10:39:24.933404 #11512]  INFO -- : Items saved to CSV file: output/items.csv
 I, [2024-11-19T10:39:24.940673 #11512]  INFO -- : Items saved to YAML files in directory: output/items_yaml
+I, [2024-11-19T10:40:53.056961 #19316]  INFO -- : Processed file: example_file
+I, [2024-11-19T10:40:53.057352 #19316]  INFO -- : Processed file: Item initialized: RbParser::Item - title: Товар 1, price: 150, subtitle: No subtitle available, image_url: default.jpg
+I, [2024-11-19T10:40:54.447116 #19316]  INFO -- : Processed file: Item initialized: RbParser::Item - title: Durable Cotton Bottle, price: 227.47, subtitle: Quia aut minus facere qui., image_url: autem.jpg
+I, [2024-11-19T10:40:54.448529 #19316]  INFO -- : Cart initialized with an empty items array
+I, [2024-11-19T10:40:54.449094 #19316]  INFO -- : Processed file: Item initialized: RbParser::Item - title: Mediocre Granite Computer, price: 392.42, subtitle: Ducimus voluptatem aut laborum a., image_url: sed.jpg
+I, [2024-11-19T10:40:54.449381 #19316]  INFO -- : Item added to cart: RbParser::Item - title: Mediocre Granite Computer, price: 392.42, subtitle: Ducimus voluptatem aut laborum a., image_url: sed.jpg
+I, [2024-11-19T10:40:54.449870 #19316]  INFO -- : Processed file: Item initialized: RbParser::Item - title: Durable Wool Shirt, price: 318.89, subtitle: Velit mollitia et illo sit., image_url: quo.jpg
+I, [2024-11-19T10:40:54.450134 #19316]  INFO -- : Item added to cart: RbParser::Item - title: Durable Wool Shirt, price: 318.89, subtitle: Velit mollitia et illo sit., image_url: quo.jpg
+I, [2024-11-19T10:40:54.450499 #19316]  INFO -- : Processed file: Item initialized: RbParser::Item - title: Synergistic Cotton Plate, price: 662.44, subtitle: Nihil ea at iusto voluptatem., image_url: et.jpg
+I, [2024-11-19T10:40:54.450726 #19316]  INFO -- : Item added to cart: RbParser::Item - title: Synergistic Cotton Plate, price: 662.44, subtitle: Nihil ea at iusto voluptatem., image_url: et.jpg
+I, [2024-11-19T10:40:54.451178 #19316]  INFO -- : Processed file: Item initialized: RbParser::Item - title: Practical Bronze Chair, price: 492.94, subtitle: Aliquid voluptas voluptate sequi repellendus., image_url: impedit.jpg
+I, [2024-11-19T10:40:54.451410 #19316]  INFO -- : Item added to cart: RbParser::Item - title: Practical Bronze Chair, price: 492.94, subtitle: Aliquid voluptas voluptate sequi repellendus., image_url: impedit.jpg
+I, [2024-11-19T10:40:54.451827 #19316]  INFO -- : Processed file: Item initialized: RbParser::Item - title: Awesome Concrete Lamp, price: 993.01, subtitle: Sequi illo dolorem maiores et., image_url: asperiores.jpg
+I, [2024-11-19T10:40:54.452074 #19316]  INFO -- : Item added to cart: RbParser::Item - title: Awesome Concrete Lamp, price: 993.01, subtitle: Sequi illo dolorem maiores et., image_url: asperiores.jpg
+I, [2024-11-19T10:40:54.452217 #19316]  INFO -- : 5 test items generated
+I, [2024-11-19T10:40:54.452543 #19316]  INFO -- : Showing all items in the cart
+I, [2024-11-19T10:40:54.456526 #19316]  INFO -- : Items saved to text file: output/items.txt
+I, [2024-11-19T10:40:54.457618 #19316]  INFO -- : Items saved to JSON file: output/items.json
+I, [2024-11-19T10:40:54.458951 #19316]  INFO -- : Items saved to CSV file: output/items.csv
+I, [2024-11-19T10:40:54.469230 #19316]  INFO -- : Items saved to YAML files in directory: output/items_yaml
+I, [2024-11-19T10:40:54.493548 #19316]  INFO -- : Processed file: example_file
+I, [2024-11-19T10:40:54.493850 #19316]  INFO -- : Processed file: Item initialized: RbParser::Item - title: Товар 1, price: 150, subtitle: No subtitle available, image_url: default.jpg
+I, [2024-11-19T10:40:54.496529 #19316]  INFO -- : Processed file: Item initialized: RbParser::Item - title: Incredible Steel Knife, price: 212.79, subtitle: Deleniti rerum consequatur et iusto., image_url: rerum.jpg
+I, [2024-11-19T10:40:54.497571 #19316]  INFO -- : Cart initialized with an empty items array
+I, [2024-11-19T10:40:54.498134 #19316]  INFO -- : Processed file: Item initialized: RbParser::Item - title: Awesome Granite Hat, price: 658.22, subtitle: Cum est dignissimos voluptatem vel., image_url: in.jpg
+I, [2024-11-19T10:40:54.498327 #19316]  INFO -- : Item added to cart: RbParser::Item - title: Awesome Granite Hat, price: 658.22, subtitle: Cum est dignissimos voluptatem vel., image_url: in.jpg
+I, [2024-11-19T10:40:54.498781 #19316]  INFO -- : Processed file: Item initialized: RbParser::Item - title: Lightweight Wool Bag, price: 371.58, subtitle: Quo ad qui voluptatum dicta., image_url: voluptas.jpg
+I, [2024-11-19T10:40:54.499080 #19316]  INFO -- : Item added to cart: RbParser::Item - title: Lightweight Wool Bag, price: 371.58, subtitle: Quo ad qui voluptatum dicta., image_url: voluptas.jpg
+I, [2024-11-19T10:40:54.500012 #19316]  INFO -- : Processed file: Item initialized: RbParser::Item - title: Small Iron Watch, price: 73.56, subtitle: Debitis quos voluptas sapiente vel., image_url: assumenda.jpg
+I, [2024-11-19T10:40:54.500256 #19316]  INFO -- : Item added to cart: RbParser::Item - title: Small Iron Watch, price: 73.56, subtitle: Debitis quos voluptas sapiente vel., image_url: assumenda.jpg
+I, [2024-11-19T10:40:54.501005 #19316]  INFO -- : Processed file: Item initialized: RbParser::Item - title: Intelligent Copper Hat, price: 828.45, subtitle: Reprehenderit non fuga dolore suscipit., image_url: sed.jpg
+I, [2024-11-19T10:40:54.501237 #19316]  INFO -- : Item added to cart: RbParser::Item - title: Intelligent Copper Hat, price: 828.45, subtitle: Reprehenderit non fuga dolore suscipit., image_url: sed.jpg
+I, [2024-11-19T10:40:54.501664 #19316]  INFO -- : Processed file: Item initialized: RbParser::Item - title: Incredible Cotton Clock, price: 743.52, subtitle: Delectus et voluptatum deleniti occaecati., image_url: voluptatem.jpg
+I, [2024-11-19T10:40:54.501841 #19316]  INFO -- : Item added to cart: RbParser::Item - title: Incredible Cotton Clock, price: 743.52, subtitle: Delectus et voluptatum deleniti occaecati., image_url: voluptatem.jpg
+I, [2024-11-19T10:40:54.502004 #19316]  INFO -- : 5 test items generated
+I, [2024-11-19T10:40:54.502160 #19316]  INFO -- : Showing all items in the cart
+I, [2024-11-19T10:40:54.505193 #19316]  INFO -- : Items saved to text file: output/items.txt
+I, [2024-11-19T10:40:54.506063 #19316]  INFO -- : Items saved to JSON file: output/items.json
+I, [2024-11-19T10:40:54.507942 #19316]  INFO -- : Items saved to CSV file: output/items.csv
+I, [2024-11-19T10:40:54.513603 #19316]  INFO -- : Items saved to YAML files in directory: output/items_yaml
