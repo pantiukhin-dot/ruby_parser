@@ -1,0 +1,4 @@
+I, [2024-11-19T10:35:13.018690 #28200]  INFO -- : Processed file: example_file
+E, [2024-11-19T10:35:13.019066 #28200] ERROR -- : Error: Example error
+I, [2024-11-19T10:35:13.022666 #28200]  INFO -- : Processed file: example_file
+E, [2024-11-19T10:35:13.023016 #28200] ERROR -- : Error: Example error
