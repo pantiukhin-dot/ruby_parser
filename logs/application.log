@@ -92,3 +92,13 @@ I, [2024-11-19T10:40:54.505193 #19316]  INFO -- : Items saved to text file: outp
 I, [2024-11-19T10:40:54.506063 #19316]  INFO -- : Items saved to JSON file: output/items.json
 I, [2024-11-19T10:40:54.507942 #19316]  INFO -- : Items saved to CSV file: output/items.csv
 I, [2024-11-19T10:40:54.513603 #19316]  INFO -- : Items saved to YAML files in directory: output/items_yaml
+I, [2024-11-19T10:42:59.188017 #3808]  INFO -- : Processed file: example_file
+I, [2024-11-19T10:42:59.234314 #3808]  INFO -- : Processed file: Initialized SimpleWebsiteParser with config config/yaml/web_parser.yaml
+I, [2024-11-19T10:42:59.273483 #3808]  INFO -- : Processed file: Starting parsing process
+E, [2024-11-19T10:42:59.274005 #3808] ERROR -- : Error: URL check failed for : absolute URL needed (not nil)
+E, [2024-11-19T10:42:59.274718 #3808] ERROR -- : Error: Start URL is not accessible: 
+I, [2024-11-19T10:42:59.305118 #3808]  INFO -- : Processed file: example_file
+I, [2024-11-19T10:42:59.307278 #3808]  INFO -- : Processed file: Initialized SimpleWebsiteParser with config config/yaml/web_parser.yaml
+I, [2024-11-19T10:42:59.334074 #3808]  INFO -- : Processed file: Starting parsing process
+E, [2024-11-19T10:42:59.334381 #3808] ERROR -- : Error: URL check failed for : absolute URL needed (not nil)
+E, [2024-11-19T10:42:59.335708 #3808] ERROR -- : Error: Start URL is not accessible: 
