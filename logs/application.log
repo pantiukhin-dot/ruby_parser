@@ -2,3 +2,11 @@ I, [2024-11-19T10:35:13.018690 #28200]  INFO -- : Processed file: example_file
 E, [2024-11-19T10:35:13.019066 #28200] ERROR -- : Error: Example error
 I, [2024-11-19T10:35:13.022666 #28200]  INFO -- : Processed file: example_file
 E, [2024-11-19T10:35:13.023016 #28200] ERROR -- : Error: Example error
+I, [2024-11-19T10:37:34.801108 #10216]  INFO -- : Processed file: example_file
+E, [2024-11-19T10:37:34.801497 #10216] ERROR -- : Error: Example error
+I, [2024-11-19T10:37:34.801778 #10216]  INFO -- : Processed file: Item initialized: RbParser::Item - title: Товар 1, price: 150, subtitle: No subtitle available, image_url: default.jpg
+I, [2024-11-19T10:37:39.094633 #10216]  INFO -- : Processed file: Item initialized: RbParser::Item - title: Enormous Leather Wallet, price: 590.0, subtitle: Necessitatibus quia harum id error., image_url: vel.jpg
+I, [2024-11-19T10:37:39.099407 #10216]  INFO -- : Processed file: example_file
+E, [2024-11-19T10:37:39.099684 #10216] ERROR -- : Error: Example error
+I, [2024-11-19T10:37:39.099937 #10216]  INFO -- : Processed file: Item initialized: RbParser::Item - title: Товар 1, price: 150, subtitle: No subtitle available, image_url: default.jpg
+I, [2024-11-19T10:37:39.102108 #10216]  INFO -- : Processed file: Item initialized: RbParser::Item - title: Lightweight Steel Bottle, price: 119.78, subtitle: Earum delectus consectetur impedit quasi., image_url: iure.jpg
